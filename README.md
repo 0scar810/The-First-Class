@@ -130,7 +130,7 @@
   <tr>
     <td align="center"><strong>강정우</strong></td>
     <td align="center"><strong>설재형</strong></td>
-    <td align="center"><strong>신진욱</strong></td>
+    <td align="center"><strong>신진욱(Oscar)</strong></td>
     <td align="center"><strong>김경호</strong></td>
     <td align="center"><strong>신지수</strong></td>
     <td align="center"><strong>박주혜</strong></td>
@@ -139,7 +139,7 @@
   <tr>
     <td align="center"><b>Backend, Frontend, DB Managing</b></td>
     <td align="center"><b>크롤링, 데이터 전처리, Ai 모델링</b></td>
-    <td align="center"><b>크롤링, Frontend</b></td>
+    <td align="center"><b>크롤링, 데이터 전처리, Frontend</b></td>
     <td align="center"><b>PM, 문서정리</b></td>
     <td align="center"><b>크롤링</b></td>
     <td align="center"><b>도메인 지식 제공</b></td>
@@ -148,7 +148,7 @@
    <tr>
     <td align="center"><strong>웹 프로젝트 설계<br>카카오지도 이용 검색기능<br>매물 CRUD</strong></td>
     <td align="center"><strong>데이터 크롤링 총괄<br>feature engineering 기반 데이터 전처리<br>ai 모델링</strong></td>
-    <td align="center"><strong>메인 홈페이지<br>data center 페이지<br>크롤링</strong></td>
+    <td align="center"><strong>메인 홈페이지<br>data center 페이지<br>크롤링 및 데이터 전처리</strong></td>
     <td align="center"><strong>문서작업</strong></td>
     <td align="center"><strong>크롤링</strong></td>
     <td align="center"><strong>도메인 지식 제공</strong></td>
